@@ -1,0 +1,68 @@
+﻿# =========================
+# Visual Studio
+# =========================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# =========================
+# Build
+# =========================
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# =========================
+# Rider / ReSharper
+# =========================
+_ReSharper*/
+*.ReSharper
+*.DotSettings.user
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Test Results
+# =========================
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# =========================
+# NuGet
+# =========================
+packages/
+*.nupkg
+*.snupkg
+
+# Mantém os arquivos necessários do NuGet
+!**/packages/build/
+!**/packages/repositories.config
+
+# =========================
+# Publish
+# =========================
+publish/
+*.publishsettings
+
+# =========================
+# Arquivos temporários
+# =========================
+*.tmp
+*.temp
+*.cache
+*.log
+
+# =========================
+# Sistema Operacional
+# =========================
+.DS_Store
+Thumbs.db
+Desktop.ini
