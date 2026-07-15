@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscriacao\\builder\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscriacao\\builder\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscriacao\\builder\\builders\\studio24mbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscriacao\\builder\\builders\\studio24mbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscriacao\\builder\\builders\\studio26mbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscriacao\\builder\\builders\\studio26mbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscriacao\\builder\\builders\\studio28mbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscriacao\\builder\\builders\\studio28mbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscriacao\\builder\\studios\\studio24m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscriacao\\builder\\studios\\studio24m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscriacao\\builder\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscriacao\\builder\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscriacao\\builder\\studios\\studio28m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscriacao\\builder\\studios\\studio28m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscriacao\\builder\\studios\\studio26m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscriacao\\builder\\studios\\studio26m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscriacao\\builder\\builders\\studiobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscriacao\\builder\\builders\\studiobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscriacao\\builder\\studios\\studio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscriacao\\builder\\studios\\studio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscriacao\\singleton\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,24 +110,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Studio24mBuilder.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\Builder\\Builders\\Studio24mBuilder.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\Builder\\Builders\\Studio24mBuilder.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\Builder\\Builders\\Studio24mBuilder.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsCriacao\\Builder\\Builders\\Studio24mBuilder.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T22:21:29.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\Builder\\Client.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\Builder\\Client.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\Builder\\Client.cs*",
+              "RelativeToolTip": "ConsoleApp1\\PatternsCriacao\\Builder\\Client.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T22:31:16.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-15T21:56:38.028Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Studio26mBuilder.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\Builder\\Builders\\Studio26mBuilder.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\Builder\\Builders\\Studio26mBuilder.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\Builder\\Builders\\Studio26mBuilder.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsCriacao\\Builder\\Builders\\Studio26mBuilder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T22:25:32.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Studio28mBuilder.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\Builder\\Builders\\Studio28mBuilder.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\Builder\\Builders\\Studio28mBuilder.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\Builder\\Builders\\Studio28mBuilder.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsCriacao\\Builder\\Builders\\Studio28mBuilder.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T22:28:41.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Studio24m.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\Builder\\Studios\\Studio24m.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\Builder\\Studios\\Studio24m.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\Builder\\Studios\\Studio24m.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsCriacao\\Builder\\Studios\\Studio24m.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T22:19:06.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Director.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\Builder\\Director.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\Builder\\Director.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\Builder\\Director.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsCriacao\\Builder\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T22:29:37.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Studio28m.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\Builder\\Studios\\Studio28m.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\Builder\\Studios\\Studio28m.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\Builder\\Studios\\Studio28m.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsCriacao\\Builder\\Studios\\Studio28m.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T22:27:39.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Studio26m.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\Builder\\Studios\\Studio26m.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\Builder\\Studios\\Studio26m.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\Builder\\Studios\\Studio26m.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsCriacao\\Builder\\Studios\\Studio26m.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T22:24:52.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudioBuilder.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\Builder\\Builders\\StudioBuilder.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\Builder\\Builders\\StudioBuilder.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\Builder\\Builders\\StudioBuilder.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsCriacao\\Builder\\Builders\\StudioBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T22:16:57.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Studio.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\Builder\\Studios\\Studio.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\Builder\\Studios\\Studio.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\Builder\\Studios\\Studio.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsCriacao\\Builder\\Studios\\Studio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T22:14:38.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Client.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\Singleton\\Client.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\Singleton\\Client.cs",
@@ -95,25 +265,24 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsCriacao\\Singleton\\Client.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAUwA8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T21:47:44.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-15T21:47:44.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "ContextDB.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\Singleton\\ContextDB.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\Singleton\\ContextDB.cs",
               "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\Singleton\\ContextDB.cs",
               "RelativeToolTip": "ConsoleApp1\\PatternsCriacao\\Singleton\\ContextDB.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA4AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-15T21:40:30.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "SegundaQuintaFactory.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteCriacao\\Factories\\SegundaQuintaFactory.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteCriacao\\Factories\\SegundaQuintaFactory.cs",
@@ -125,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "QuartaSabadoFactory.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteCriacao\\Factories\\QuartaSabadoFactory.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteCriacao\\Factories\\QuartaSabadoFactory.cs",
@@ -137,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "TercaSextaFactory.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteCriacao\\Factories\\TercaSextaFactory.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteCriacao\\Factories\\TercaSextaFactory.cs",
@@ -149,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "TreinoTercaSexta.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteProduto\\Produtos\\TreinoTercaSexta.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteProduto\\Produtos\\TreinoTercaSexta.cs",
@@ -161,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "TreinoSegundaQuinta.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteProduto\\Produtos\\TreinoSegundaQuinta.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteProduto\\Produtos\\TreinoSegundaQuinta.cs",
@@ -173,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "TreinoQuartaSabado.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteProduto\\Produtos\\TreinoQuartaSabado.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteProduto\\Produtos\\TreinoQuartaSabado.cs",
@@ -185,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "DietaTercaSexta.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteProduto\\Produtos\\DietaTercaSexta.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteProduto\\Produtos\\DietaTercaSexta.cs",
@@ -197,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "DietaSegundaQuinta.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteProduto\\Produtos\\DietaSegundaQuinta.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteProduto\\Produtos\\DietaSegundaQuinta.cs",
@@ -209,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "DietaQuartaSabado.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteProduto\\Produtos\\DietaQuartaSabado.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteProduto\\Produtos\\DietaQuartaSabado.cs",
@@ -221,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "ITreino.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteProduto\\Interfaces\\ITreino.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteProduto\\Interfaces\\ITreino.cs",
@@ -233,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "IDieta.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteProduto\\Interfaces\\IDieta.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteProduto\\Interfaces\\IDieta.cs",
@@ -245,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "IFactory.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteCriacao\\Interfaces\\IFactory.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsCriacao\\AbstractFactory\\ParteCriacao\\Interfaces\\IFactory.cs",
