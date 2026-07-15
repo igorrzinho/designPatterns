@@ -1,11 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-using DesignPatterns.PatternsCriacao.Builder;
-using System.Net.Http.Json;
+﻿using DesignPatterns.PatternsCriacao.Prototype;
 
 Console.WriteLine("Curos de Design Patterns!");
 
 Client client = new Client();
-client.ConsumirDadosStudio();
+client.ConsumirStudio();
+
+//client.ConsumirDadosStudio(); Builder
 //client.ConsumirDB(); Singleton
 //client.ConsultarRotinaAluno(); abstract factory
 // client.ExecultarCriacaoProduto(); FactoryMethod
