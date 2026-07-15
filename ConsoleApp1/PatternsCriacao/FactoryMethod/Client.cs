@@ -26,8 +26,8 @@ namespace DesignPatterns.PatternsCriacao.FactoryMethod
                 var servicoProduto = slc.FabricarProduto((eTipoServicos)tipoServico);
 
                 Console.WriteLine("Deseja calcular outro servico? (1-Sim ou 2-Não)");
-                int resp = Convert.ToInt32(Console.ReadLine());
-                continuar = resp == 1;
+                var resp = Console.ReadLine();
+                continuar = resp == "1";
             }
         }
     }
