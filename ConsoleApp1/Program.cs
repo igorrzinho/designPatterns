@@ -1,4 +1,4 @@
-﻿using DesignPatterns.PatternsEstruturais.Adapter;
+﻿using DesignPatterns.PatternsEstruturais.Flyweight;
 
 Console.WriteLine("Curos de Design Patterns!");
 
@@ -9,5 +9,8 @@ Console.WriteLine("Curos de Design Patterns!");
 //client.ConsultarRotinaAluno(); abstract factory
 // client.ExecultarCriacaoProduto(); FactoryMethod
 
-CloundComputing cloud = new CloundComputing();
-cloud.ProcessarContas("Janeiro");
+//CloundComputing cloud = new CloundComputing();
+//cloud.ProcessarContas("Janeiro");
+
+Client cliente = new Client();
+cliente.ConsumirFlyweight();
