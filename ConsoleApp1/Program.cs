@@ -1,4 +1,6 @@
-﻿using DesignPatterns.PatternsEstruturais.Flyweight;
+﻿using DesignPatterns.PatternsEstruturais.Bridge;
+using DesignPatterns.PatternsEstruturais.Bridge.Abstracao;
+using DesignPatterns.PatternsEstruturais.Bridge.Implementacao;
 
 Console.WriteLine("Curos de Design Patterns!");
 
@@ -9,8 +11,33 @@ Console.WriteLine("Curos de Design Patterns!");
 //client.ConsultarRotinaAluno(); abstract factory
 // client.ExecultarCriacaoProduto(); FactoryMethod
 
-//CloundComputing cloud = new CloundComputing();
-//cloud.ProcessarContas("Janeiro");
+//CloundComputing cloud = new CloundComputing(); // Adapter
+//cloud.ProcessarContas("Janeiro"); // Adapter
+//Client cliente = new Client();
+//cliente.ConsumirFlyweight();
 
-Client cliente = new Client();
-cliente.ConsumirFlyweight();
+Client client;
+Random random;
+while (true)
+{
+    client = new Client();
+    random = new Random();
+
+    if (random.Next(2) == 1)
+        client.Material = new CanetaEsferografica();
+    else
+        client.Material = new PincelMarcador();
+
+    if(random.Next(3) == 1)
+        client.Material.CorImplementacao = new Azul();
+    else if (random.Next(3) == 2)
+        client.Material.CorImplementacao = new Vermelho();
+    else
+        client.Material.CorImplementacao = new Preto();
+
+    client.ConsultarNoEstoque();
+    Console.WriteLine("Pressione o <Enter> para continuar...");
+    ConsoleKeyInfo key = Console.ReadKey(); 
+    if(key.KeyChar != 13)
+        break;
+}
