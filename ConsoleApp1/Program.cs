@@ -1,4 +1,5 @@
-﻿using DesignPatterns.PatternsEstruturais.Composite;
+﻿using DesignPatterns.PatternsEstruturais.Decorator;
+using System.Net.Http.Json;
 
 Console.WriteLine("Curos de Design Patterns!");
 
@@ -40,6 +41,8 @@ while (true)
         break;
 }*/  //Bridge
 
-Client client = new Client();
-client.EfetuarCompra();//Composite
+/*Client client = new Client();
+client.EfetuarCompra();//Composite*/
 
+Client client = new Client();
+client.ConsumirServico(); //Decorator
