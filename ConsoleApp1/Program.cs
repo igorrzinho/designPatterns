@@ -1,6 +1,4 @@
-﻿using DesignPatterns.PatternsEstruturais.Bridge;
-using DesignPatterns.PatternsEstruturais.Bridge.Abstracao;
-using DesignPatterns.PatternsEstruturais.Bridge.Implementacao;
+﻿using DesignPatterns.PatternsEstruturais.Composite;
 
 Console.WriteLine("Curos de Design Patterns!");
 
@@ -16,7 +14,7 @@ Console.WriteLine("Curos de Design Patterns!");
 //Client cliente = new Client();
 //cliente.ConsumirFlyweight();
 
-Client client;
+/*Client client;
 Random random;
 while (true)
 {
@@ -40,4 +38,8 @@ while (true)
     ConsoleKeyInfo key = Console.ReadKey(); 
     if(key.KeyChar != 13)
         break;
-}
+}*/  //Bridge
+
+Client client = new Client();
+client.EfetuarCompra();//Composite
+
