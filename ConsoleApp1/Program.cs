@@ -1,6 +1,4 @@
-﻿using DesignPatterns.PatternsEstruturais.Decorator;
-using System.Net.Http.Json;
-
+﻿using DesignPatterns.PatternsEstruturais.Facade;
 Console.WriteLine("Curos de Design Patterns!");
 
 //Client client = new Client(); Patterns de Criação
@@ -44,5 +42,8 @@ while (true)
 /*Client client = new Client();
 client.EfetuarCompra();//Composite*/
 
-Client client = new Client();
-client.ConsumirServico(); //Decorator
+//Client client = new Client();
+//client.ConsumirServico(); //Decorator
+
+FacadeManager facade = new FacadeManager();
+facade.ExecutarComplexidade(); //Facade

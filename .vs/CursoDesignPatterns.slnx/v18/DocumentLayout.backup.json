@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternsestruturais\\decorator\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternsestruturais\\decorator\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternsestruturais\\facade\\facademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternsestruturais\\facade\\facademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternsestruturais\\facade\\ambientecomplexo\\zonasul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternsestruturais\\facade\\ambientecomplexo\\zonasul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternsestruturais\\facade\\ambientecomplexo\\cloudcomputing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternsestruturais\\facade\\ambientecomplexo\\cloudcomputing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternsestruturais\\facade\\ambientecomplexo\\zonanorte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternsestruturais\\facade\\ambientecomplexo\\zonanorte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternsestruturais\\decorator\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternsestruturais\\decorator\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternsestruturais\\decorator\\decorators\\acessoriodecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -122,17 +138,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAAC8AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-15T21:56:38.028Z",
               "IsPinned": true,
@@ -140,7 +156,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "FacadeManager.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Facade\\FacadeManager.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Facade\\FacadeManager.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Facade\\FacadeManager.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsEstruturais\\Facade\\FacadeManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAawBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T23:31:18.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZonaSul.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Facade\\AmbienteComplexo\\ZonaSul.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Facade\\AmbienteComplexo\\ZonaSul.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Facade\\AmbienteComplexo\\ZonaSul.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsEstruturais\\Facade\\AmbienteComplexo\\ZonaSul.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T23:24:53.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CloudComputing.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Facade\\AmbienteComplexo\\CloudComputing.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Facade\\AmbienteComplexo\\CloudComputing.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Facade\\AmbienteComplexo\\CloudComputing.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsEstruturais\\Facade\\AmbienteComplexo\\CloudComputing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T23:28:49.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ZonaNorte.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Facade\\AmbienteComplexo\\ZonaNorte.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Facade\\AmbienteComplexo\\ZonaNorte.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Facade\\AmbienteComplexo\\ZonaNorte.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsEstruturais\\Facade\\AmbienteComplexo\\ZonaNorte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T23:28:06.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Client.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Decorator\\Client.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Decorator\\Client.cs",
@@ -153,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "AcessorioDecorator.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Decorator\\Decorators\\AcessorioDecorator.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Decorator\\Decorators\\AcessorioDecorator.cs",
@@ -161,12 +229,11 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsEstruturais\\Decorator\\Decorators\\AcessorioDecorator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-29T02:22:53.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-29T02:22:53.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "BanhoTosa.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Decorator\\Servico\\BanhoTosa.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Decorator\\Servico\\BanhoTosa.cs",
@@ -174,12 +241,11 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsEstruturais\\Decorator\\Servico\\BanhoTosa.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAawA4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-29T02:18:38.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-29T02:18:38.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "LuxoSpaDecorator.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Decorator\\Decorators\\LuxoSpaDecorator.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Decorator\\Decorators\\LuxoSpaDecorator.cs",
@@ -187,12 +253,11 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsEstruturais\\Decorator\\Decorators\\LuxoSpaDecorator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-29T02:31:17.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-29T02:31:17.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "PetDecorator.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Decorator\\Decorators\\PetDecorator.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Decorator\\Decorators\\PetDecorator.cs",
@@ -200,12 +265,11 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsEstruturais\\Decorator\\Decorators\\PetDecorator.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-29T02:20:40.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-29T02:20:40.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "IPet.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Decorator\\Interfaces\\IPet.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Decorator\\Interfaces\\IPet.cs",
@@ -213,12 +277,11 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsEstruturais\\Decorator\\Interfaces\\IPet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-29T02:17:33.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-29T02:17:33.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Client.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Composite\\Client.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Composite\\Client.cs",
@@ -230,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ProductComposite.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Composite\\ProductComposite.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Composite\\ProductComposite.cs",
@@ -238,12 +301,11 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsEstruturais\\Composite\\ProductComposite.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAAADMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-29T00:34:04.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-29T00:34:04.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "ProductLeaf.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Composite\\ProductLeaf.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Composite\\ProductLeaf.cs",
@@ -255,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "ComponentModel.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Composite\\Model\\ComponentModel.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Composite\\Model\\ComponentModel.cs",
@@ -267,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "ICor.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Bridge\\Implementacao\\Interfaces\\ICor.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Bridge\\Implementacao\\Interfaces\\ICor.cs",
@@ -279,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Client.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Bridge\\Client.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Bridge\\Client.cs",
@@ -287,11 +349,12 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsEstruturais\\Bridge\\Client.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T02:06:27.806Z"
+              "WhenOpened": "2026-07-27T02:06:27.806Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Azul.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Bridge\\Implementacao\\Azul.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Bridge\\Implementacao\\Azul.cs",
@@ -299,11 +362,12 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsEstruturais\\Bridge\\Implementacao\\Azul.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T02:01:43.299Z"
+              "WhenOpened": "2026-07-27T02:01:43.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Preto.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Bridge\\Implementacao\\Preto.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Bridge\\Implementacao\\Preto.cs",
@@ -311,11 +375,12 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsEstruturais\\Bridge\\Implementacao\\Preto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T02:01:20.029Z"
+              "WhenOpened": "2026-07-27T02:01:20.029Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Vermelho.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Bridge\\Implementacao\\Vermelho.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Bridge\\Implementacao\\Vermelho.cs",
@@ -323,11 +388,12 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsEstruturais\\Bridge\\Implementacao\\Vermelho.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T02:02:01.489Z"
+              "WhenOpened": "2026-07-27T02:02:01.489Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "IMaterial.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Bridge\\Abstracao\\Interfaces\\IMaterial.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Bridge\\Abstracao\\Interfaces\\IMaterial.cs",
@@ -339,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "CanetaEsferografica.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Bridge\\Abstracao\\CanetaEsferografica.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Bridge\\Abstracao\\CanetaEsferografica.cs",
@@ -351,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "PincelMarcador.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Bridge\\Abstracao\\PincelMarcador.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Bridge\\Abstracao\\PincelMarcador.cs",
@@ -363,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Client.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Flyweight\\Client.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Flyweight\\Client.cs",
@@ -375,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "FlyweightFactory.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Flyweight\\FlyweightFactory.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Flyweight\\FlyweightFactory.cs",
@@ -387,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "Cinza.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Flyweight\\Fliweights\\Cinza.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Flyweight\\Fliweights\\Cinza.cs",
@@ -399,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "Azul.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Flyweight\\Fliweights\\Azul.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Flyweight\\Fliweights\\Azul.cs",
@@ -411,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Vermelha.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Flyweight\\Fliweights\\Vermelha.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Flyweight\\Fliweights\\Vermelha.cs",
@@ -423,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "EspacoNave.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Flyweight\\Model\\EspacoNave.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Flyweight\\Model\\EspacoNave.cs",
@@ -435,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "CloundComputing.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Adapter\\CloundComputing.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Adapter\\CloundComputing.cs",
@@ -447,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "BusinessLegado.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Adapter\\BusinessLegado.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Adapter\\BusinessLegado.cs",
@@ -459,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "IAdapter.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsEstruturais\\Adapter\\Interfaces\\IAdapter.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsEstruturais\\Adapter\\Interfaces\\IAdapter.cs",
