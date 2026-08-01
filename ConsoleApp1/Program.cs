@@ -1,5 +1,4 @@
-﻿using DesignPatterns.PatternsEstruturais.Facade;
-using DesignPatterns.PatternsEstruturais.Proxy;
+﻿using DesignPatterns.PatternsComportamental.TemplateMethod;
 Console.WriteLine("Curos de Design Patterns!");
 
 //Client client = new Client(); Patterns de Criação
@@ -49,5 +48,10 @@ client.EfetuarCompra();//Composite*/
 //FacadeManager facade = new FacadeManager();
 //facade.ExecutarComplexidade(); //Facade
 
+//Client client = new Client();
+//client.ConectarVPN(); //Proxy
+
 Client client = new Client();
-client.ConectarVPN(); //Proxy
+client.ConsumirEndpointXML();
+Console.WriteLine(new String('#', 100));
+client.ConsumirEndpointJSON(); // Template Method
