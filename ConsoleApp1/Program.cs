@@ -1,5 +1,4 @@
-﻿using DesignPatterns.PatternsComportamental.Interpreter.Jumanji;
-using DesignPatterns.PatternsComportamental.TemplateMethod;
+﻿using DesignPatterns.PatternsComportamental.Observer;
 Console.WriteLine("Curos de Design Patterns!");
 
 //Client client = new Client(); Patterns de Criação
@@ -58,5 +57,8 @@ client.EfetuarCompra();//Composite*/
 //client.ConsumirEndpointJSON(); // Template Method
 
 
-Apresentar apresenta = new Apresentar();
-apresenta.ApresentarHabilidades(); // Interpreter
+//Apresentar apresenta = new Apresentar();
+//apresenta.ApresentarHabilidades(); // Interpreter
+
+SendMail sendMail = new SendMail();
+sendMail.EnviarEmail(); // Observer
