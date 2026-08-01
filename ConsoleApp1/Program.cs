@@ -1,4 +1,5 @@
-﻿using DesignPatterns.PatternsComportamental.TemplateMethod;
+﻿using DesignPatterns.PatternsComportamental.Interpreter.Jumanji;
+using DesignPatterns.PatternsComportamental.TemplateMethod;
 Console.WriteLine("Curos de Design Patterns!");
 
 //Client client = new Client(); Patterns de Criação
@@ -51,7 +52,11 @@ client.EfetuarCompra();//Composite*/
 //Client client = new Client();
 //client.ConectarVPN(); //Proxy
 
-Client client = new Client();
-client.ConsumirEndpointXML();
-Console.WriteLine(new String('#', 100));
-client.ConsumirEndpointJSON(); // Template Method
+//Client client = new Client();
+//client.ConsumirEndpointXML();
+//Console.WriteLine(new String('#', 100));
+//client.ConsumirEndpointJSON(); // Template Method
+
+
+Apresentar apresenta = new Apresentar();
+apresenta.ApresentarHabilidades(); // Interpreter
