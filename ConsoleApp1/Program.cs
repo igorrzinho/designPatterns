@@ -1,4 +1,4 @@
-﻿using DesignPatterns.PatternsComportamental.Visitor;
+﻿using DesignPatterns.PatternsComportamental.Command;
 Console.WriteLine("Curos de Design Patterns!");
 
 //Client client = new Client(); Patterns de Criação
@@ -63,5 +63,8 @@ client.EfetuarCompra();//Composite*/
 //SendMail sendMail = new SendMail();
 //sendMail.EnviarEmail(); // Observer
 
-Fiscal fiscal = new Fiscal();
-fiscal.CalcularImpostos(); // Visitor
+//Fiscal fiscal = new Fiscal();
+//fiscal.CalcularImpostos(); // Visitor
+
+Client client = new Client();
+client.FalarComandos(); // Command

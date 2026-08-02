@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscomportamental\\command\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscomportamental\\command\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscomportamental\\command\\controleinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscomportamental\\command\\controleinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscomportamental\\command\\commands\\ligaluminariacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscomportamental\\command\\commands\\ligaluminariacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscomportamental\\command\\commands\\desligaluminariacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscomportamental\\command\\commands\\desligaluminariacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscomportamental\\command\\receivers\\luzluminiriareceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscomportamental\\command\\receivers\\luzluminiriareceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscomportamental\\command\\commands\\aumentaintensidadecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscomportamental\\command\\commands\\aumentaintensidadecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscomportamental\\command\\interfaces\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscomportamental\\command\\interfaces\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscomportamental\\visitor\\fiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscomportamental\\visitor\\fiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscomportamental\\visitor\\visitors\\saopaulovisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscomportamental\\visitor\\visitors\\saopaulovisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscomportamental\\visitor\\produtos\\produtoperecivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,13 +74,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAEIAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-01T02:22:38.138Z",
               "IsPinned": true,
@@ -61,19 +89,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Command\\Client.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Command\\Client.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Command\\Client.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Command\\Client.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwDAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T03:36:17.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControleInvoker.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Command\\ControleInvoker.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Command\\ControleInvoker.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Command\\ControleInvoker.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Command\\ControleInvoker.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T03:26:08.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LigaLuminariaCommand.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Command\\Commands\\LigaLuminariaCommand.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Command\\Commands\\LigaLuminariaCommand.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Command\\Commands\\LigaLuminariaCommand.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Command\\Commands\\LigaLuminariaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T03:03:22.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DesligaLuminariaCommand.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Command\\Commands\\DesligaLuminariaCommand.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Command\\Commands\\DesligaLuminariaCommand.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Command\\Commands\\DesligaLuminariaCommand.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Command\\Commands\\DesligaLuminariaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T03:06:34.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LuzLuminiriaReceiver.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Command\\Receivers\\LuzLuminiriaReceiver.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Command\\Receivers\\LuzLuminiriaReceiver.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Command\\Receivers\\LuzLuminiriaReceiver.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Command\\Receivers\\LuzLuminiriaReceiver.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T03:05:11.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AumentaIntensidadeCommand.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Command\\Commands\\AumentaIntensidadeCommand.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Command\\Commands\\AumentaIntensidadeCommand.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Command\\Commands\\AumentaIntensidadeCommand.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Command\\Commands\\AumentaIntensidadeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T03:08:10.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Command\\Interfaces\\ICommand.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Command\\Interfaces\\ICommand.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Command\\Interfaces\\ICommand.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Command\\Interfaces\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T03:02:51.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Fiscal.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Visitor\\Fiscal.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Visitor\\Fiscal.cs",
               "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Visitor\\Fiscal.cs",
               "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Visitor\\Fiscal.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwC4AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-01T16:42:57.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "RioDeJaneiroVisitor.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Visitor\\Visitors\\RioDeJaneiroVisitor.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Visitor\\Visitors\\RioDeJaneiroVisitor.cs",
@@ -81,12 +200,11 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Visitor\\Visitors\\RioDeJaneiroVisitor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T16:38:07.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-01T16:38:07.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "SaoPauloVisitor.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Visitor\\Visitors\\SaoPauloVisitor.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Visitor\\Visitors\\SaoPauloVisitor.cs",
@@ -94,12 +212,11 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Visitor\\Visitors\\SaoPauloVisitor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T16:34:44.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-01T16:34:44.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "ProdutoPerecivel.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Visitor\\Produtos\\ProdutoPerecivel.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Visitor\\Produtos\\ProdutoPerecivel.cs",
@@ -107,12 +224,11 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Visitor\\Produtos\\ProdutoPerecivel.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAEwBYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T16:29:01.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-01T16:29:01.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "ProdutoNaoPerecivel.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Visitor\\Produtos\\ProdutoNaoPerecivel.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Visitor\\Produtos\\ProdutoNaoPerecivel.cs",
@@ -120,12 +236,11 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Visitor\\Produtos\\ProdutoNaoPerecivel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T16:29:20.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-01T16:29:20.482Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "IVisitor.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Visitor\\Interfaces\\IVisitor.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Visitor\\Interfaces\\IVisitor.cs",
@@ -133,12 +248,11 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Visitor\\Interfaces\\IVisitor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T16:26:37.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-01T16:26:37.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "IProduct.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Visitor\\Interfaces\\IProduct.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Visitor\\Interfaces\\IProduct.cs",
@@ -146,8 +260,7 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Visitor\\Interfaces\\IProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T16:30:16.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-01T16:30:16.678Z"
             }
           ]
         }
