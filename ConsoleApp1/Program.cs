@@ -1,4 +1,4 @@
-﻿using DesignPatterns.PatternsComportamental.Command;
+﻿using DesignPatterns.PatternsComportamental.Strategy;
 Console.WriteLine("Curos de Design Patterns!");
 
 //Client client = new Client(); Patterns de Criação
@@ -66,5 +66,8 @@ client.EfetuarCompra();//Composite*/
 //Fiscal fiscal = new Fiscal();
 //fiscal.CalcularImpostos(); // Visitor
 
-Client client = new Client();
-client.FalarComandos(); // Command
+//Client client = new Client();
+//client.FalarComandos(); // Command
+
+RotinaTaxaService executarRotina = new RotinaTaxaService();
+executarRotina.ExecutarRotina(); // Strategy
