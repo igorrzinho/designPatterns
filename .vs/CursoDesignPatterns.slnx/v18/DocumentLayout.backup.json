@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscomportamental\\memento\\videocassete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscomportamental\\memento\\videocassete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscomportamental\\memento\\originator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscomportamental\\memento\\originator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscomportamental\\memento\\caretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscomportamental\\memento\\caretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscomportamental\\memento\\snapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscomportamental\\memento\\snapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|d:\\dev\\cursodesignpatterns\\cursodesignpatterns\\consoleapp1\\patternscomportamental\\mediator\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61C38CBF-6436-8977-D213-7A9F296607E3}|ConsoleApp1\\DesignPatterns.csproj|solutionrelative:consoleapp1\\patternscomportamental\\mediator\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -92,7 +108,7 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAkwFIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-01T02:22:38.138Z",
               "IsPinned": true,
@@ -101,6 +117,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Videocassete.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Memento\\Videocassete.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Memento\\Videocassete.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Memento\\Videocassete.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Memento\\Videocassete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T02:44:13.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Caretaker.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Memento\\Caretaker.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Memento\\Caretaker.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Memento\\Caretaker.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Memento\\Caretaker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T02:41:07.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Originator.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Memento\\Originator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Memento\\Originator.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Memento\\Originator.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Memento\\Originator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T02:39:04.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Snapshot.cs",
+              "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Memento\\Snapshot.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Memento\\Snapshot.cs",
+              "ToolTip": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Memento\\Snapshot.cs",
+              "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Memento\\Snapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T02:37:11.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Chat.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Mediator\\Chat.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Mediator\\Chat.cs",
@@ -108,12 +176,11 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Mediator\\Chat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T02:05:59.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T02:05:59.993Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "MediatorConcret.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Mediator\\MediatorConcret.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Mediator\\MediatorConcret.cs",
@@ -121,12 +188,11 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Mediator\\MediatorConcret.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T02:03:32.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T02:03:32.294Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Atendente.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Mediator\\Atendente.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Mediator\\Atendente.cs",
@@ -134,12 +200,11 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Mediator\\Atendente.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T02:01:47.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T02:01:47.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Paciente.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Mediator\\Paciente.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Mediator\\Paciente.cs",
@@ -147,12 +212,11 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Mediator\\Paciente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T01:55:48.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T01:55:48.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Contato.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Mediator\\AbstractModel\\Contato.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Mediator\\AbstractModel\\Contato.cs",
@@ -160,12 +224,11 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Mediator\\AbstractModel\\Contato.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T01:54:42.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T01:54:42.466Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Mediator.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Mediator\\AbstractModel\\Mediator.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Mediator\\AbstractModel\\Mediator.cs",
@@ -173,12 +236,11 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Mediator\\AbstractModel\\Mediator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T01:53:49.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T01:53:49.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Client.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Iterator\\Client.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Iterator\\Client.cs",
@@ -186,12 +248,11 @@
               "RelativeToolTip": "ConsoleApp1\\PatternsComportamental\\Iterator\\Client.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T01:41:24.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T01:41:24.897Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Aggregate.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Iterator\\Aggregate.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Iterator\\Aggregate.cs",
@@ -203,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Iterator.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Iterator\\Iterator.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Iterator\\Iterator.cs",
@@ -215,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "IAggregate.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Iterator\\Interfaces\\IAggregate.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Iterator\\Interfaces\\IAggregate.cs",
@@ -227,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "IIterator.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\Iterator\\Interfaces\\IIterator.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\Iterator\\Interfaces\\IIterator.cs",
@@ -239,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "LimpezaReceiver.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\ChainOfResponsability\\Receivers\\LimpezaReceiver.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\ChainOfResponsability\\Receivers\\LimpezaReceiver.cs",
@@ -251,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Sender.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\ChainOfResponsability\\Sender.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\ChainOfResponsability\\Sender.cs",
@@ -263,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "LavanderiaReceiver.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\ChainOfResponsability\\Receivers\\LavanderiaReceiver.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\ChainOfResponsability\\Receivers\\LavanderiaReceiver.cs",
@@ -275,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Checkout.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\ChainOfResponsability\\Checkout.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\ChainOfResponsability\\Checkout.cs",
@@ -287,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "QuartoReceiver.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\ChainOfResponsability\\Receivers\\QuartoReceiver.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\ChainOfResponsability\\Receivers\\QuartoReceiver.cs",
@@ -299,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "CobrancaReceiver.cs",
               "DocumentMoniker": "D:\\Dev\\CursoDesignPatterns\\CursoDesignPatterns\\ConsoleApp1\\PatternsComportamental\\ChainOfResponsability\\AbstractModel\\CobrancaReceiver.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\PatternsComportamental\\ChainOfResponsability\\AbstractModel\\CobrancaReceiver.cs",
