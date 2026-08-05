@@ -1,4 +1,5 @@
 ﻿using DesignPatterns.PatternsComportamental.Iterator;
+using DesignPatterns.PatternsComportamental.Mediator;
 Console.WriteLine("Curos de Design Patterns!");
 
 //Client client = new Client(); Patterns de Criação
@@ -75,5 +76,8 @@ client.EfetuarCompra();//Composite*/
 //Sender sender = new Sender();
 //sender.RealizarCheckout(); // Chain of Responsability
 
-Client client = new Client();
-client.ConsumirEstruturaDados(); // Iterator
+//Client client = new Client();
+//client.ConsumirEstruturaDados(); // Iterator
+
+Chat chat = new Chat();
+chat.Conversar(); // Mediator
