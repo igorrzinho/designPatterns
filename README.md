@@ -1,10 +1,5 @@
 ﻿# Design Patterns - Padrões de Projeto
 
-**Site:** https://refactoring.guru/design-patterns  
-**YouTube Playlist:**
-
----
-
 ## Design Patterns de Criação
 
 ### Factory Method
