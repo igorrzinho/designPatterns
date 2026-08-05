@@ -1,4 +1,4 @@
-﻿using DesignPatterns.PatternsComportamental.ChainOfResponsability;
+﻿using DesignPatterns.PatternsComportamental.Iterator;
 Console.WriteLine("Curos de Design Patterns!");
 
 //Client client = new Client(); Patterns de Criação
@@ -72,5 +72,8 @@ client.EfetuarCompra();//Composite*/
 //RotinaTaxaService executarRotina = new RotinaTaxaService();
 //executarRotina.ExecutarRotina(); // Strategy
 
-Sender sender = new Sender();
-sender.RealizarCheckout(); // Chain of Responsability
+//Sender sender = new Sender();
+//sender.RealizarCheckout(); // Chain of Responsability
+
+Client client = new Client();
+client.ConsumirEstruturaDados(); // Iterator
