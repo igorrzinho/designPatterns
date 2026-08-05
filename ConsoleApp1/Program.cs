@@ -1,5 +1,4 @@
-﻿using DesignPatterns.PatternsComportamental.Iterator;
-using DesignPatterns.PatternsComportamental.Memento;
+﻿using DesignPatterns.PatternsComportamental.State;
 Console.WriteLine("Curos de Design Patterns!");
 
 //Client client = new Client(); Patterns de Criação
@@ -82,5 +81,8 @@ client.EfetuarCompra();//Composite*/
 //Chat chat = new Chat();
 //chat.Conversar(); // Mediator
 
-Videocassete videocassete = new Videocassete();
-videocassete.ExecutarAcaoVideo(); // Memento
+//Videocassete videocassete = new Videocassete();
+//videocassete.ExecutarAcaoVideo(); // Memento
+
+Client client = new Client();
+client.ExecutarContext(); // State
